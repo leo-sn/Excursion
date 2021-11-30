@@ -2,5 +2,10 @@ body {
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+}
+
+.header--main {
     font-weight: normal;
+    color: white;
+    font-size: 50px;
 }
